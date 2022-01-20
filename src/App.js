@@ -1,10 +1,10 @@
 
-
+import WebCam from "./components/WebCam";
 
 function App() {
   return (
     <>
-     
+     <WebCam/>
     </>
   );
 }
